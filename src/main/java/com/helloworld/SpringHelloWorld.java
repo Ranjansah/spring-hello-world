@@ -10,7 +10,7 @@ public class SpringHelloWorld {
 	@GetMapping("/print")
 	public String hi()
 	{
-		return "<h2>Hello world!!!</h2>";
+		return "<h2>Hello world!!! this is azure program</h2>";
 	}
 
 }
